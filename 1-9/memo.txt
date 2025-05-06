@@ -1,0 +1,10 @@
+HTML은 Markup Language이다. Markup은 content
+HTML은 브라우저에게 웹사이트에 어떤 content가 있는지를 알려준다.
+ex(title, link, image, paragraph, date..) 
+
+CSS는 브라우저에게 그러한 content들이 어떻게 보여야하는지를 보여준다.
+
+Javascript는 웹사이트를 똑똑하게 동적으로 만들어 주는것
+클릭하면 뭔가가 생기도록 해주는 것
+
+이 3가지 언어중에서 프로그래밍 언어는 오직 Javascript뿐이다.
