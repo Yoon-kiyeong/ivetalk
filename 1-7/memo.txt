@@ -1,0 +1,5 @@
+CSS(Cascading Style Sheets)
+CSS는 HTML과 같이 써야한다는 것
+절대로 CSS만 따로 사용하거나 HTML만 사용하지 않는다.
+CSS는 브라우저에게 웹사이트가 어떻게 보여야하는지에 대해 알려준다.
+HTML은 브라우저에게 웹사이트의 content가 무엇인지에 대해 알려준다.
