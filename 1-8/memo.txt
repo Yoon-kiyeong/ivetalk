@@ -1,0 +1,6 @@
+Javascript는 웹사이트의 뇌라고 할 수 있다.
+어떤 웹사이트들은 동적이어야 할 때가 있다.
+동적 상호작용성(interactivity)을 위해 필요한 것이 바로 Javascript
+이러한 interactivity가 바로 웹사이트의 뇌이다.
+모든 웹사이트에서 뇌가 필요한건 아니다.
+HTML과 CSS만으로도 웹사이틀르 만들 수 있다.
