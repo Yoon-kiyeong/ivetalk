@@ -1,0 +1,10 @@
+html에서 list의 종류는 2가지이다
+
+첫번째는 ordered list
+순서가 있는 목록
+
+두번째는 unordered list
+순서가 없는 목록
+
+ul이 바로 unordered list이다
+li태그 (list item)를 list태그 안에 만들어주면 브라우저가 이해하고 리스트로 만들어준다
