@@ -1,0 +1,10 @@
+a는 anchor를 뜻함
+클릭하게 하려면 anchor에 다른 정보를 추가해줘야 한다.
+tag에 추가하는 부가적인 정보를 attributes(속성)이라고 한다.
+attributes는 태그에 부가적인 정보를 추가하는 것이다.
+모든 태그들이 h1 태그처럼 명확한게 아니기 때문
+anchor태그는 부가적인 정보가 필요한데, 그 중 하나가 href라는 attributes이다.
+href는 "HTTP reference" 혹은 "hyperlink reference"라고 한다.
+target의 기본값은 "_self"이다. "_blank"는 새로운 탭에서 열리게 해준다
+img 태그는 다른것들과 다르게 닫는 태그가 없다. img태그는 "self-closing tag"이기 때문(자체 닫기 태그)
+src는 이미지 태그 안에서 작동한다.
