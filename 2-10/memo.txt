@@ -1,0 +1,7 @@
+label태그는 form에 question을 추가할 수 있다
+label은 input 태그와 함께여야 작동이 된다.
+label태그는 for라는 attribute를 붙여주면 된다.
+그리고 input태그에는 id라는 attribute를 넣어줘야 한다.
+id와 for에 들어가는 값은 동일해야 한다.
+id값은 고유해야한다
+태그는 하나의 id만을 가질 수 있다.
