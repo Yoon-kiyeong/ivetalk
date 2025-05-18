@@ -1,0 +1,8 @@
+HTML이나 CSS 혹은 JavaScript를 검색할 때 "mdn"이라는 키워드를 붙이자
+mdn 키워드를 붙이면 Mozilla developer network로 연결된다.
+firefox 브라우저를 만드는 회사가 제공하는 web에 관한 정보를 제공한다.
+<p> : paragraph 길이가 긴 텍스트에 사용하는 태그. 눈으로 보기엔 별 차이가 없다.
+<pre> : pre-formatted text
+굳이 태그들을 외울 필요 없이 구글에서 검색하는 것만으로도 충분히 다양한 태그들을 찾을 수 있다.
+w3school보다 mdn에서 찾아보는 것이 좋다.
+모든 태그를 외우는게 아니라 태그를 어떻게 작성할 지 기억하는 것이 좋다.
