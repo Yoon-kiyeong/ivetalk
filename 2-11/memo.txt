@@ -1,0 +1,11 @@
+html에서 제일 많이 볼 태그 div
+div 태그란 division이라는 말에서 나옴
+div는 의미론적으로는 아무런 값도 없는 태그
+이런 태그들을 semantic 태그라고한다.
+semantic이란 문서를 보기만해도 그 의미를 짐작할 수 있는 것
+header와 head를 헷깔리지말것
+header는 body안에 포함되어 있는 것이고, head는 보이지 않는 것
+header는 제목을 의미한다
+main은 내용을 의미한다
+footer는 아래의 꼬릿말을 의미한다.
+span은 짧은 텍스트를 의한 태그이다.
