@@ -1,0 +1,12 @@
+form 태그 안에는 form의 양식을 만들어 줘야 한다.
+fomr의 양식 중 가장 중요한 태그는 input 태그이다.
+input태그는 모든 웹 사이트에 존재한다.
+placeholder는 input이 가지고 있는 또 다른 attribute이다
+value라는 attribute를 통해 버튼에 적혀있는 submit을 바꿀수도 있다.
+required를 추가하면 form을 validation(검증)할 수 있다.
+minlength는 최소한의 길이를 결정할 수 있다.
+이것들이 정확하게 작동하는 이유는 정확한 위치에 올바른 코드를 작성해서 가능한 것
+이렇게 제대로 작성해야 브라우저가 이해해준다.
+type이 file일 경우에만 사용하능한 accept라는 attribute가 있다.
+이건 특정 file의 유형들만 선택하게 하게끔 하는 기능을 제공해준다.(doc, xlsx, pdf, ...)
+
