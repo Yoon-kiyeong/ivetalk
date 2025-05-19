@@ -1,0 +1,6 @@
+Cascading Style Sheet (CSS)란
+브라우저가 CSS코드를 읽을 때 위에 있는 코드부터 차례차례로 읽힌다는 것
+style 태그 안에 속성을 써 주는 걸 inline CSS라 하고, CSS 파일을 include 하는 것을 external CSS라고 한다
+만약 이 두 CSS 코드가 같은 대상을 가리키게 되면..?
+CSS는 위에서 아래로 차례로 읽히기 때문에 맨 마지막에 있는 코드를 읽고 적용하게 된다.
+만약 external CSS를 아래로 옮기게 된다면? -> external CSS를 마지막으로 읽었기 때문에 external CSS가 적용이 된다.
