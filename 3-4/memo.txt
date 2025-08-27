@@ -1,0 +1,16 @@
+block만 갖고 있는 특성
+block은 옆에 아무것도 올 수 없다, 하지만 inline은 옆에 올 수 있다
+그러면 block을 inline으로 바꿀 수 있을까? 반대로 inline을 block으로 바꿀 수 있을까?
+
+span의 기본값은 inline이다.
+div의 기본값은 block이다.
+
+어떤 요소가 inline이면 그 요소는 높이와 너비를 가질 수 없다.
+inline은 높이와 너비가 없다.
+block은 높이와 너비가 있다.
+
+브라우저는 요소들에게 많은 style 속성을 준다. 우리가 원치 않아도
+
+box가 갖고 있는 속성
+margin, border, padding
+margin: box의 border(경계)의 바깥에 있는 공간, 그게 바로 body가 갖고 있는 것(default로)
