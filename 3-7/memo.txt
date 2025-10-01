@@ -1,0 +1,9 @@
+border는 말 그대로 box의 경계(border)
+border는 많은 속성을 갖고 있다.
+하지만 여러 종류의 border를 사용하지 않는다.
+보통 한 종류의 border를 사용하게 된다.
+solid를 주로 사야ㅛㅇ하게 된다
+
+CSS에서 *는 전체를 뜻한다.
+
+border는 inline과 block을 적용한다.
