@@ -1,0 +1,17 @@
+flexbox : 박스들을 어떤 곳이든 둘 수 있어서 좋음
+아주 '유연'하다 
+
+flexbox의 세가지 규칙
+1. 자식 element에는 어떤 것도 적지 말아야 한다.
+- 부모 element에만 명시해야 한다.
+- 부모 element를 display: flex로 바꾼다.
+- space-evenly는 빈 공간을 같은 크기로 나누어서 배치한다. 그것도 아주 고르게(justify-content)
+
+2,3. 주축(main axis), 교차축(cross axis)
+justify-content는 주축(main axis) 위에서 움직이고, alig-items는 교차축(cross axis)에서 움직이게 된다.
+주축은 수평으로 디폴트가 설정되어 있고 교차축은 수직으로 디폴트가 설정되어 있다.
+
+vh : viewport hieght viewport를 screen이라는 말로 생각해도 된다.
+100 screen height는 화면 높이의 100%를 해당한다고 보면 됨
+
+display:flex를 하면 해당 element가 flex 컨테이너가 된다.
