@@ -1,0 +1,9 @@
+Pseudo Selectors : 좀 더 세부적으로 element를 선택해주는 것
+
+last-child는 리스트에 있는 element들 중에 마지막에 있는 element를 말함
+first-child는 리스트에 있는 element들 중에 첫번째에 있는 element를 말함
+nth-child(x)는 리스트에 있는 element들 중에 x에 대항하는 element를 말함
+nth-child(even,odd)는 짝수 || 홀수에 있는 element를 말함
+nth-child(2n + 1)
+- 선택지의 2n + 1 요소 선택
+- n은 0부터 대입
