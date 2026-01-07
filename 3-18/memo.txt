@@ -1,0 +1,19 @@
+Pseudo 속성
+::(콜론)이 두 개가 들어간 것이 특징
+::placeholder
+: placeholder의 특성을 바꾸고 싶을 때 사용
+
+::selection 
+: 클릭해서 드래그 할 때 적용되는 특성으로 사용
+
+::first-letter
+: 첫 글자에만 적용되는 특성으로 사용
+
+selection 속성
+1) active : 클릭할 때 적용 (ex)버튼 클릭 시 색변경)
+2) hover : 마우스 커서를 올려놓을 때 적용
+3) focus : element가 focused된 상태 (ex)키보드 탭 버튼으로 이동)
+4) visited : 방문한 사이트와 관련하여 발생, 해당 링크의 특성이 적용되는
+5) focus-within : focus되는 children이 있으면 적용.
+
+* form: hover input: focus{} 의 경우엔 두 조건 모두 만족해야 {} 안이 실행
