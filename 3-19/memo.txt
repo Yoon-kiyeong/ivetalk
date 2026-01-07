@@ -1,0 +1,25 @@
+컬러는 CSS에서 정말 중요하다.
+CSS에서 알아야 할 color system
+1)hexadecimal color(16진수 컬러)
+ex)#000000;
+2)RGB 방식 (디자이너들이 많이 사용)
+ex)rgb(252,206,0);
+rgba(205,230,0,0.5);
+4번째 숫자는 투명도를 말한다.
+즉 알파는 투명도를 말하는 것
+
+Variable(custom properties)
+variable은 CSS를 프로그래밍 언어처럼 보이게 해준다.
+CSS는 프로그래밍 언어는 아니지만 그 장점을 보여주는 것
+
+:root는 기본적으로 document의 뿌리가 되는 것
+즉, 출발점이 되는 것
+여기에 변수 이름을 쓰고
+--variable 라고 변수 이름을 지정하고
+이것을 documnet의 root에 저장하는 것이다.
+
+변수를 쓸 때에는 --를 써주고 변수이름을 써줘야 한다.
+변수는 --, 그리고 변수 이름
+빈 공간이 있다면 -로 채워야한다.
+물론 컬러만 저장할 수 있는 것은 안디ㅏ.
+--default-border: 1px solid var(--variable)
