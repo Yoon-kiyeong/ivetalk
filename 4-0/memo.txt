@@ -1,0 +1,6 @@
+Transition : 어떤 상태에서 다른 상태로의 "변화"를 애니메이션으로 만드는 방법
+
+중요한건 루트(root)이다.
+transition 값은 태그의 root(근원, 기본css 태그)에 넣는 것이고
+transition이 적용되는 항목은 "어떤 속성(attribute 조건)일 때 어떻게 변할지 따로" 적는다.
+transition이라는 속성은 state가 없는 요소(root)에 붙여야 한다.
