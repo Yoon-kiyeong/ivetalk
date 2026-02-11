@@ -1,0 +1,8 @@
+https://nykim.work/15
+BEM에 대해 한국어로 정리해놓은 블로그
+
+- BEM(Block Element Modifier)은 좀 더 쉽게 읽히는 CSS를 가지는 것
+- CSS를 작성할 때 id였는지 class였는지 헷깔릴 때가 많다. 때문에 element 앞에 온점(.)을 붙인다.
+- BEM에서 문제가 하나 있다면, 그것은 class가 엄청 커질 수 있다는 것
+- BEM을 싫어하는 사람들도 있으며, 그냥 id와 class를 섞어 쓰는 사람들도 있다.
+- 두 가지 방법 모두 쓰이기 때문에, 본인이 더 맞는 방법을 사용하면 된다.
