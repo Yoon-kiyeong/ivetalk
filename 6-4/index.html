@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to Ive Talk</title>
+  </head>
+  <body>
+    <div id="status-bar">
+      <div class="status-bar__column"></div>
+      <span>No Service</span>
+      <i class="fa-solid fa-wifi"></i>
+      <div class="status-bar__column">
+        <!-- Time, Realtime 구현 목표-->
+        <span>15:48</span>
+      </div>
+      <div class="status-bar__column">
+        <span>83% </span>
+        <i class="fa-solid fa-battery-full"></i>
+        <i class="fa-solid fa-bolt"></i>
+      </div>
+    </div>
+    <header class="welcome-header">
+      <h1 class="welcome-header__title">아이브톡에 어서오세요!</h1>
+      <p class="welcome-header__text">
+        회원이시라면 이메일 주소나 휴대폰 번호를 입력하여 로그인 해주세요
+      </p>
+    </header>
+    <form id="login-form">
+      <input type="text" placeholder="이메일 주소 혹은 휴대폰 번호" />
+      <input tpye="password" placeholder="비밀번호" />
+      <input type="submit" value="로그인" />
+      <a href="#">아이브톡 계정 또는 비밀번호 찾기</a>
+    </form>
+
+    <script
+      src="https://kit.fontawesome.com/ba6445ad92.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
