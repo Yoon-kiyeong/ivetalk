@@ -1,0 +1,9 @@
+- #login-form 으로 썼지만 .login-form__(BEM) 라고 써도 된다. 본인이 편한 방식으로 하면 됨
+- CSS 파일에서 주석처리는 /* */ 로 감싸주면 ㅗ딘다.
+- form은 중요한 2가지 속성(attribute)을 가지고 있다. 하나는 action이고, 다른 하나는 method 이다.
+- action은 어떤 페이지로 data를 보낼건지 지정할 수 있다.
+- action에 적어 놓은 URL에 해당하는 파일이 반드시 존재해야 한다.
+- method는 2가지 방식 중 하나를 쓸 수 있다. 하나는 GET이고, 하나는 POST이다.
+- POST는 백엔드 서버에 정보를 전송하는 방식
+- GET 방식은 보안에 취약하다. username과 password를 GET방식으로 보내선 안된다.
+URL에 포함되어도 상관없는 정보들을 GET방식으로 보내는 것이다.
