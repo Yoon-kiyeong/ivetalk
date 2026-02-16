@@ -1,0 +1,5 @@
+span은 width, height가 먹질 않는다.
+이걸 적용시키려면 display: block; 을 넣어줘야 한다.
+사각형을 원으로 만들고 싶다면(border-radius) 사각형 width의 반을 값으로 쓰면 된다.
+position: absolute를 사용하고 싶다면 해당 element의 가장 가까운 relative를 가진 부모를 기준으로 움직인다.
+기본적으로는 body가 해당되며, 따로 원하는 기준이 있다면 그 container에 position: relative를 주면 된다.
