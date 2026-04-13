@@ -1,0 +1,3 @@
+span은 inline이기 때문에 margin이 안먹는다.
+그러므로 display를 block으로 만들어 줘야 한다.
+자주 사용되는 css는 변수로 만들어줘서 관리를 하면 편리하다
