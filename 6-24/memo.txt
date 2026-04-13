@@ -1,0 +1,2 @@
+display: flex; ,justify-content: space-between; 는 정말정말정말 많이 쓰이는 조합
+absolute children은 relative father가 반드시 필요하다
