@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="css/style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ive Talk - Shopping</title>
+  </head>
+  <body>
+    <div class="status-bar">
+      <div class="status-bar__column">
+        <span>No Service</span>
+        <i class="fa-solid fa-wifi"></i>
+      </div>
+      <div class="status-bar__column">
+        <!-- Time, Realtime 구현 목표-->
+        <span>15:48</span>
+      </div>
+      <div class="status-bar__column">
+        <span>83% </span>
+        <i class="fa-solid fa-battery-full"></i>
+        <i class="fa-solid fa-bolt"></i>
+      </div>
+    </div>
+
+    <header class="screen-header">
+      <h1 class="screen-header__title">Shopping</h1>
+      <div class="screen-header__icons">
+        <span><i class="fas fa-search fa-lg"></i></span>
+        <a class="nav__link" href="option.html">
+          <span class="nav__dot__option"></span>
+          <span><i class="fas fa-cog fa-lg"></i></span>
+        </a>
+      </div>
+    </header>
+
+    <main class="main-screen">
+      <div class="shopping-menu">
+        <div class="shopping-menu__icon">
+          <i class="fa-solid fa-bag-shopping"></i><span>All</span>
+        </div>
+        <div class="shopping-menu__icon">
+          <i class="fa-solid fa-bag-shopping"></i><span>Goods</span>
+        </div>
+        <div class="shopping-menu__icon">
+          <i class="fa-solid fa-compact-disc"></i><span>CD/DVD・Blu-ray</span>
+        </div>
+        <div class="shopping-menu__icon">
+          <i class="fa-solid fa-crown"></i><span>FC限定</span>
+        </div>
+      </div>
+      <div class="recommended-friends">
+        <h6 class="recommended-friends__title">Recommended Friends</h6>
+        <span>You have no recommended friends</span>
+      </div>
+      <div class="open-chat">
+        <div class="open-chat__header">
+          <h4>Open Chat</h4>
+          <span
+            >Go to Openchat Home <i class="fa-solid fa-chevron-right fa-xs"></i
+          ></span>
+        </div>
+        <div class="open-post">
+          <div class="open-post__column">
+            <h5 class="open-post__title">#IVE</h5>
+            <h6 class="open-post__hashtags">#ive#dive#friends</h6>
+            <div class="open-post__members">
+              <img src="http://127.0.0.1:5500/6-23/img/Profile.jpg" />
+              <span class="open-post__member-count">802 members</span>
+              <div class="divider"></div>
+              <span class="open-post__member-status">Active</span>
+            </div>
+          </div>
+          <div class="open-post__column"></div>
+        </div>
+      </div>
+    </main>
+
+    <nav class="nav">
+      <ul class="nav__list">
+        <li class="nav__button">
+          <a class="nav__link" href="ive.html">
+            <i class="fa-regular fa-user fa-2x"></i>
+          </a>
+        </li>
+        <li class="nav__button">
+          <a class="nav__link" href="chat.html">
+            <span class="nav__notification badge">7</span>
+            <i class="fa-regular fa-comment fa-2x"></i>
+          </a>
+        </li>
+        <li class="nav__button">
+          <a class="nav__link" href="shopping.html">
+            <i class="fa-solid fa-truck fa-2x"></i>
+          </a>
+        </li>
+        <li class="nav__button">
+          <a class="nav__link" href="option.html">
+            <span class="nav__dot"></span>
+            <i class="fas fa-ellipsis-h fa-2x"></i>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <script
+      src="https://kit.fontawesome.com/ba6445ad92.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
