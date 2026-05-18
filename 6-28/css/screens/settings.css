@@ -14,5 +14,5 @@
 }
 
 .settings__setting-column:last-child {
-    color: rgba(0, 0, 0, 0.3);
+    opacity: 0.4;
 }
